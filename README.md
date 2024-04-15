@@ -1,4 +1,4 @@
-# Dark Mode Project
+# Dark Mode 
 
 This project allows users to view the interface in dark mode. Users can choose between light and dark themes according to their preferences.
 
